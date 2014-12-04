@@ -14,6 +14,7 @@ Contents:
    :maxdepth: 2
     
    doc/faq.rst
+   doc/squares.rst
 
 
 Indices and tables
